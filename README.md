@@ -1,4 +1,4 @@
-# 以下是MEIC战队Robomaster基地车的全部代码 整套下载烧录
+# 以上是MEIC战队Robomaster基地车的全部代码 整套下载烧录
 #MEIC_USER 中是函数入口点文件以及一些过程文件 list文件
 
 基地车的视觉操作是
